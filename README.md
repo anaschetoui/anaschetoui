@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Anas (أنس) </h1>
+<h1 align="center">Hey there 👋, I'm Anas</h1>
 <p align="center">
   🎓 English major | 💻 Self-taught Programmer | 🛠️ Backend Dev in Progress  
 </p>
