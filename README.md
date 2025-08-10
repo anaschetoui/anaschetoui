@@ -1,27 +1,36 @@
 <h1 align="center">Hey there 👋, I'm Anas</h1>
 <p align="center">
-  Future .NET Backend Developer | Backend Dev in Progress  
+  <strong>Future .NET Backend Developer </strong>
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-I'm a passionate learner on a mission to become a professional **backend developer**.  
-Despite studying English at university, I’ve dedicated my time to building real coding skills — from the ground up.
+I am a passionate person who is learning programming from zero. My goal is to become a professional **.NET backend developer**.
 
-- 🔍 Currently mastering: `C++`, `Algorithms`, and moving into `C# + SQL`
-- 📚 Learning path includes: OOP, Data Structures, .NET backend, and full projects
-- ⚙️ Tools: `C++`, `C#`, `SQL Server`, `Git`, `GitHub`, `Visual Studio`, `VS Code`, `Termux`
-- 🌍 Languages: Arabic 🇲🇦 | English 🇬🇧 | French 🇫🇷 (basic)
-- 🌐 Exploring: Zero-rated networking, Linux tools, and automation with Termux
+
+### 🛠️ My Future Technologies & Tools
+
+<p align="left">
+  <a href="https://cplusplus.com" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="32" height="32" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="32" height="32" />
+  </a>
+  <a href="https://developer.microsoft.com/en-us/windows/" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="32" height="32" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="32" height="32" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" height="32" />
+  </a>
+</p>
 
 ---
-
-### 🧠 My Learning Roadmap
-
-```text
-✔️ Foundations Level 1 → Algorithms L1 → C++ L1 → Advanced Algorithms L1
-✔️ Algorithms L2 → C++ L2 → Algorithms L3
-⏳ In Progress: Algorithms L4, OOP, Data Structures
-🚀 Upcoming: C#, SQL, Backend Projects with .NET
