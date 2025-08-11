@@ -3,7 +3,7 @@
   <strong>Future .NET Backend Developer </strong>
 </p>
 
----
+
 <h1 align="center">About Me</h1>
 
 I am a passionate person who is learning programming from zero. My goal is to become a professional **.NET backend developer**.
