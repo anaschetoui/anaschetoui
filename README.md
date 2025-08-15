@@ -1,11 +1,14 @@
-<h1 align="center">Hey there 👋, I'm Anas</h1>
-<p align="center">
-  <strong>Future .NET Backend Developer </strong>
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>
+    Hi there, I'm Anas 👋
+  </h1>
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Future+.NET+Backend+Developer;Always+learning+and+growing..." alt="Typing SVG" />
+</a>
+</div>
 
-
-<h1 align="center">About Me</h1>
-
+# About Me
 I am a passionate person who is learning programming from zero. My goal is to become a professional **.NET backend developer**.
 
 
