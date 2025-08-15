@@ -8,7 +8,7 @@
 </a>
 </div>
 
-# About Me
+## About Me
 I am a passionate person who is learning programming from zero. My goal is to become a professional **.NET backend developer**.
 
 
